@@ -11,6 +11,9 @@ Clock and Weather display
 
 - Not sure on the restrictions to importing data to /html/weather-forecast.html, I use a OpenHAB3 forecast page, but I suppose any external URL will also work (though untested).
 
+- The bottom Underlined texts in following screenshots are links are to the other page (two pages in total).
+
+
 Screenshots:
 
 ![Main Display](TimeMachine_210614_213347_800x480.png)
