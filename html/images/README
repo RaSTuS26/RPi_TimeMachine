@@ -1,0 +1,5 @@
+- Background Images go here and should be edited in /html/bgImages.js
+- Also in /html/date-time-weather.html and /html/weather-forecast.html the Background Image in the body tag should be the last image on your list,
+  the script will load the first image after numSeconds.
+- Dark backgrounds work better with the theme I've used.
+- AFAIK my original images are royalty free, but can't be sure, so better you find your own.
