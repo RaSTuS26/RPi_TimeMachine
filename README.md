@@ -3,7 +3,7 @@ Clock and Weather display
 
 - A simple Clock and Weather display for Raspberry Pi with 5" 800 x 480 LCD.
 
-- /html/index.html should be a symlink to /html/date-time-weather.html, somehow GitHub can't handle symlinks.
+- /html/index.html should be a symlink to /html/date-time-weather.html, somehow GitHub can't handle symlinks. Added script (setPerms+Symlink.sh) to set permissions and create the symlink.
 
 - /html/images is the directory for the background images, I think mine are free but can't be sure, see README in that directory for more info.
 
