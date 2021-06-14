@@ -13,6 +13,7 @@ Clock and Weather display
 
 Screenshots:
 
-https://github.com/RaSTuS26/RPi_TimeMachine/blob/main/TimeMachine_210614_213347_800x480.png
+(TimeMachine_210614_213347_800x480.png)
 
-https://github.com/RaSTuS26/RPi_TimeMachine/blob/main/TimeMachine_210614_213413_800x480.png
+(TimeMachine_210614_213413_800x480.png)
+
