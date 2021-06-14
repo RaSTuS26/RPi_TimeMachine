@@ -1,0 +1,5 @@
+
+- Background Image Changer inpired by: https://stackoverflow.com/a/7265145
+- Time/Hour Formatting for Midnight changed from 00 to 12 in 'date-time-10.html': https://stackoverflow.com/a/65641708
+
+- Transparent Backgrounds FROM: https://stackoverflow.com/a/18189313/16062047
