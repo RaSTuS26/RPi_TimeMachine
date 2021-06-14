@@ -13,7 +13,7 @@ Clock and Weather display
 
 Screenshots:
 
-(TimeMachine_210614_213347_800x480.png)
+![Main Display](TimeMachine_210614_213347_800x480.png)
 
-(TimeMachine_210614_213413_800x480.png)
+![Weather Forecast](TimeMachine_210614_213413_800x480.png)
 
