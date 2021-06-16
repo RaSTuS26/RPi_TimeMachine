@@ -13,6 +13,8 @@ Clock and Weather display
 
 - The bottom Underlined texts in following screenshots are links are to the other page (two pages in total).
 
+- All changes now referenced in CHANGELOG
+
 
 Screenshots:
 
