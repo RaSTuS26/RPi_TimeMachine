@@ -7,7 +7,7 @@ Clock and Weather Display
 
 - /html/images is the directory for the background images (wallpapers), I think mine are free but can't be sure so haven't included them, see README in that directory for more info.
 
-- See /html/NOTES directory for some additional info, most files have inline comments also.
+- Also see /html/NOTES directory for some general additional info, most files have inline comments too.
 
 - For /html/weather-current.html, must have a Websockets enabled MQTT server running that can supply local weather information (I use a custom weewx server with weewx-mqtt to supply the mqtt data to my MQTT server).
 
