@@ -11,9 +11,11 @@ Clock and Weather Display
 
 - Not sure on the restrictions to importing data to /html/weather-forecast.html, I use an OpenHAB3 forecast page, but I suppose any external URL will also work (though untested).
 
-- The bottom Underlined texts in following screenshots are links are to the other page (two pages in total).
+- Please note, Mackay is 30-40kms from my actual location, hence minor descrepencies, it just happens to be the nearest official Australian Bureau of Meteorology weather station to me.
 
 - All changes now referenced in CHANGELOG
+
+- The bottom Underlined texts in following screenshots are links are to the other page (two pages in total).
 
 
 Screenshots:
