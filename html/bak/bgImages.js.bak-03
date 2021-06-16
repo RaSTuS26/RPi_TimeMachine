@@ -1,0 +1,47 @@
+<!-- Background Image Changer inpired by: https://stackoverflow.com/a/7265145 -->
+var images = ['images/BalticCoastNightshot.jpg',
+		'images/DarkHarbinger.jpg',
+		'images/InTheShadowOfTheStars_Cropped.jpg',
+		'images/2_by_the5heepdev.jpg',
+		'images/CurlsbyCandy.jpg',
+		'images/dragonfly.jpg',
+		'images/12cordas_by_gill_santos_dark.jpg',
+		'images/edubuntu-nyc.jpg',
+		'images/Fern_by_aalex04.jpg',
+		'images/Floorboards_by_Dawid_Huczyski.jpg',
+		'images/FlordeLoto.jpg',
+//		'images/Gota_D-agua_by_Eiti_Kimura.jpg',
+		'images/edubuntu-horsehead-nebula.jpg',
+		'images/Headstock_by_Bernhard_Hanakam.jpg',
+		'images/Ilunabarra_Azkainetik_by_Garuna_bor-bor.jpg',
+		'images/jankaluza_daisy.jpg',
+		'images/jankaluza_dandelion.jpg',
+		'images/jankaluza_moon.jpg',
+		'images/juergen_arabia.jpg',
+		'images/bartosova_aurora.jpg',
+		'images/larung_gar_by_night_by_Geza_Radics.jpg',
+		'images/CarribeanSunset.jpg',
+		'images/Brother_typewriter_by_awdean1.jpg',
+		'images/Maraetaibeforesunrise.jpg',
+		'images/Mount_Snowdon,_Wales_by_Adam_Vellender.jpg',
+		'images/edubuntu-ladybug.jpg',
+		'images/Mr_TauAndTheTree_byTJ.jpg',
+		'images/RadioactiveSunrise.jpg',
+		'images/RedFlower.jpg',
+		'images/seaOfClouds.jpg',
+		'images/simplematetunnel.jpg',
+		'images/Stop_the_light_by_Mato_Rachela.jpg',
+		'images/Sunset.jpg',
+		'images/ubuntu-gnome-alameda.jpg',
+		'images/edubuntu-mrtau-and-tree-by-tj.jpg',
+		'images/weathercock.jpg',
+		'images/WildWheat_by_Brian_Burt.jpg'];
+var numSeconds = 30;
+var curImage = 0;
+function switchImage()
+{
+    curImage = (curImage + 1) % images.length
+    document.body.style.backgroundImage = 'url(' + images[curImage] + ')'
+}
+window.setInterval(switchImage, numSeconds * 1000);
+
