@@ -1,0 +1,8 @@
+
+16-Jun-2021
+	- Adjusted data/link transparency slightly.
+	- Now using '24hr Rain' stats rather than 'Today's Rain' because it could pour
+	  down just before Midnight, but then not show up once Midnight ticks over.
+
+
+FOR CHANGES BEFORE THIS PLEASE REFER TO '.bak' DIRECTORIES FOR PREVIOUS VERSIONS.
