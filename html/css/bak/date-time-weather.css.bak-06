@@ -1,0 +1,61 @@
+/* Global */
+
+/* hide the cursor */
+* { cursor: none !important }
+
+/* unvisited link */
+a:link {
+/*	color: darkgreen; */
+	color: orange;
+}
+
+/* visited link */
+a:visited {
+/*	color: darkgreen; */
+	color: orange;
+}
+
+/* mouse over link */
+a:hover {
+/*	color: darkblue; */
+	color: yellow;
+}
+
+/* selected link */
+a:active {
+/*	color: darkblue; */
+	color: yellow;
+}
+
+
+html {
+	scrollbar-width: none;
+	overflow: hidden;
+}
+
+::-webkit-scrollbar {
+	width: 0px;  /* remove scrollbar space */
+	background: transparent;  /* optional: just make scrollbar invisible */
+}
+
+
+h1 {
+	color: #ffffcc;
+/*	color: #777777; */
+	font-family: arial, sans-serif;
+	font-size: 168px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	color: #ffffcc;
+/*	color: #777777; */
+	font-family: arial, sans-serif;
+/*	font-size: 46px; */
+	font-size: 38px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
