@@ -1,5 +1,5 @@
 # RPi_TimeMachine
-Clock and Weather display
+Clock and Weather Display
 
 - A simple Clock and Weather display for Raspberry Pi with 5" 800 x 480 LCD.
 
