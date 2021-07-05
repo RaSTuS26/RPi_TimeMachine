@@ -1,0 +1,19 @@
+h1 {
+	color: #ffffcc;
+/*	color: #777777; */
+	font-family: arial, sans-serif;
+	font-size: 168px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	color: #ffffcc;
+/*	color: #777777; */
+	font-family: arial, sans-serif;
+	font-size: 46px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

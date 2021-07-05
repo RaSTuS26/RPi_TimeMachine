@@ -1,0 +1,126 @@
+/* CSS for the 'weather-current.html' sourced from 'weewx-mqtt' */
+
+.stats_header  {
+	background-color: rgba(0, 0, 0, 0.4);
+	color: #ffffcc;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+.stats_label {
+	color: darkgreen;
+	text-align: right;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+}
+
+.stats_data {
+	color: darkred;
+	text-align: left;
+	padding-left: 18px;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+}
+
+
+/* Universal Styles, but mainly 'date-time-weather.html' */
+
+/* unvisited link */
+a:link {
+	color: darkred;
+	background-color: rgba(255, 255, 204, 0.6);
+	font-family: arial, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+/*	text-decoration: none; */  /* no underline */
+	padding: 2px 16px;
+	border: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+/* visited link */
+a:visited {
+	color: darkred;
+	background-color: rgba(255, 255, 204, 0.6);
+	font-family: arial, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+/*	text-decoration: none; */  /* no underline */
+	padding: 10px 16px;
+	border: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+/* mouse over link */
+a:hover {
+	color: darkgreen;
+	background-color: rgba(255, 255, 204, 0.6);
+	font-family: arial, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+/*	text-decoration: none; */  /* no underline */
+	padding: 10px 16px;
+	border: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+/* selected link */
+a:active {
+	color: darkgreen;
+	background-color: rgba(255, 255, 204, 0.6);
+	font-family: arial, sans-serif;
+	font-size: 32px;
+	font-weight: bold;
+/*	text-decoration: none; */  /* no underline */
+	padding: 10px 16px;
+	border: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+h1 {
+	color: #ffffcc;
+	font-family: arial, sans-serif;
+	font-size: 168px;
+	font-weight: bold;
+	padding: 0px 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+h2 {
+	color: #ffffcc;
+	font-family: arial, sans-serif;
+	font-size: 38px;
+	font-weight: bold;
+	padding: 0px 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+/* Hide the cursor */
+* { cursor: none !important }
+* { margin: 0; padding: 0; }
+
+/* Try and hide scrollbar */
+body {
+	scrollbar-width: none;
+	overflow: hidden;
+}
+::-webkit-scrollbar {
+	width: 0px;  /* remove scrollbar space */
+	background: transparent;  /* optional: just make scrollbar invisible */
+}
+
